@@ -4,5 +4,5 @@ Just run
 ========
 
 ```
-$  python3 ENCODEDFILE
+$  python3 toxi.py ENCODEDFILE
 ```
